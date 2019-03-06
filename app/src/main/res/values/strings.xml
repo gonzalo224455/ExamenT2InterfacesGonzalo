@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoPlanetB</string>
+    <!--Login-->
+    <string name="Correo">Email</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="BotonLogin">Login</string>
+    <string name="BotonRegistro">Leave</string>
+    <string name="BotonRegistro2">Login</string>
+    <string name="textmain">And no next generation</string>
+    <string name="Texto">As opposed to a simile which compares two objects using a specific linguistic form, eg. the man was as brave as a lion, a metaphor compares two objects by equating the one with the other, eg. he was a brave lion.  Literally the man was not a lion, but figuratively he was.  This figure of speech is used in literary works of all kinds, including poems and news articles. The Unifying Metaphor aims to unify people.  An example of an American metaphor is the Camel man.  He is healthy, strong and tanned, and he can survive in the wild bushveld with merely a pocketknife and a piece of string.  He drives a 4x4, and he works hard all day.  This is the image of the Camel man – please correct me if I’m wrong.  The logic and truth behind this image may elude us, but what unifies us is what Elgin (1980: p. 227) calls the consensus perception.</string>
+    <string name="splash1"> No planet B</string>
+    <string name="splash2">to late for leaving...</string>
+</resources>

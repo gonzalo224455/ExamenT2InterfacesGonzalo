@@ -23,7 +23,8 @@
             android:id="@+id/view"
             android:layout_width="match_parent"
             android:layout_height="200dp"
-            android:layout_marginTop="-200dp" />
+            android:layout_marginTop="-200dp"
+            android:background="@drawable/scrim" />
 
         <com.mikhaellopez.circularimageview.CircularImageView
             android:layout_width="50dp"
@@ -82,7 +83,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:padding="5dp"
         android:paddingBottom="15dp">
 
         <Button
